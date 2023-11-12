@@ -37,4 +37,10 @@ This repository contains a PySpark script for data processing using Apache Spark
 
 ## Output
 
-You can customize the script to perform different data processing tasks by modifying the Spark SQL query or applying various data transformations as needed.
+when the sql runs:
+
+
+The oup put will be:
+
+
+Please check output.csv file.
