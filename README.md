@@ -1,4 +1,4 @@
-# PySpark Data Processing
+# mini project 10 - PySpark Data Processing
 
 This repository contains a PySpark script for data processing using Apache Spark. In this project, we demonstrate how to perform data processing on a large dataset using PySpark, including the use of Spark SQL queries and data transformations.
 
@@ -37,10 +37,14 @@ This repository contains a PySpark script for data processing using Apache Spark
 
 ## Output
 
-when the sql runs:
+When the sql runs:
+
+<img width="682" alt="Screenshot 2023-11-12 at 14 18 17" src="https://github.com/nogibjj/Owner-avatar-mini-proj10-rc/assets/123079408/74849c57-b7d1-4415-bbd7-91dda9734381">
+
+The output will be:
 
 
-The oup put will be:
+<img width="822" alt="Screenshot 2023-11-12 at 15 20 21" src="https://github.com/nogibjj/Owner-avatar-mini-proj10-rc/assets/123079408/4e62e9fe-a139-4251-bfef-9f14f9152959">
 
 
 Please check output.csv file.
